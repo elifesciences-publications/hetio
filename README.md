@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Himmelstein et al., "Systematic integration of biomedical knowledge prioritizes drugs for repurposing". eLife, 2017. http://dx.doi.org/10.7554/eLife.26726
+
 # Hetnets in Python
 
 [![Latest DOI](https://zenodo.org/badge/14475/dhimmel/hetio.svg)](https://zenodo.org/badge/latestdoi/14475/dhimmel/hetio)
